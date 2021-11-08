@@ -13,3 +13,11 @@ To run:
 
 
 There is a brief [presentation here](ES6Templates.pdf).
+
+Important 
+Hey Rick, i just want to add this thing in README.md file that you can see two contributer for this project first is contractorhimali and secound is Mrfadia. so Mrfadia is me and the all work is done by myself, i am sharing my laptop with my wife so by defalut in VS code when i am pushing my code to my github repository it acomatically apper her name over ther as contribulter.
+here is step how i push this code in github
+a. open my own assignment-2 from monlie application
+b. initialize repository github in VS
+c. click on check and commit as first commit
+d. push the remote repository to my github
